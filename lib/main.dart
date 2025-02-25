@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'TP 1',
       debugShowCheckedModeBanner: false,
-      home: HomePage(),
+      home: splash(),
     );
   }
 }
